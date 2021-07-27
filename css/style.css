@@ -1,0 +1,182 @@
+/* Archivo para añadir nuestros estilos */
+
+body {
+    font-family: Helvetica, Arial; /* definimos una tipografía por defecto */
+    margin: 0 auto; /* propiedad que centra la página */
+}
+
+h1 {
+   font-size: 0;
+}
+
+header{padding: 2rem;}
+
+header img {
+    margin: 0 auto
+}
+
+.free {
+    background-color: #e6e5d8;
+    padding: 5rem;
+}
+
+.free h2 {
+    font-weight: bold;
+    font-size: 1.8rem;
+    margin: 1rem;
+}
+
+.free p {
+    font-family: 'Montserrat', sans-serif;
+    margin: 1rem;
+}
+
+.beoutside{
+    padding: 6rem;
+}
+
+.beoutside h3 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+.rosa1 {color: #ed7485;}
+.verde2 {color: #9fb936;}
+.naranja3 {color: #f08605;}
+.azul4 {color: #148cc8;}
+.amarillo5 {color: #f1b62a;}
+
+.textosplash{
+    padding: 12rem 4rem;
+}
+
+.textosplash h2 {
+    font-size: 4rem;
+    font-family: 'Prata', serif;
+}
+
+.textosplash p {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 4rem;
+}
+
+.btn-shop {
+    padding: 1.5rem;
+    border: 2px solid black;
+    border-radius: 3rem;
+}
+
+a:hover.btn-shop{
+    color: cornflowerblue;
+    border-color: cornflowerblue;
+}
+
+.reviews {
+    padding: 5rem 0;
+    text-align: center;
+}
+
+.reviews h3 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-family: 'Prata', serif;
+}
+
+.reviews h4 {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+blockquote{
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 2.5rem;
+}
+
+cite{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.impact{
+    background-color: #f1b614;
+    padding: 7rem;
+    text-align: center;
+}
+
+.impact h3{
+    font-size: 3rem;
+    color: #ffffff;
+    font-family: 'Prata', serif;
+    margin-bottom: 1rem;
+}
+
+.impact p {
+    font-size: 1.6rem;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.together{
+    margin: 5rem 0;
+}
+
+.together h3{
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Prata', serif;
+}
+
+.together h4{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 2rem;
+}
+
+.together article{
+    padding: 1rem;
+}
+
+.together h5{
+    margin-top: 1rem;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../img/fondo-footer.jpg");
+    padding: 5rem 0;
+}
+
+footer h5 {
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 4rem;
+}
+
+ul {
+    line-height: 2rem;
+}
+
+footer p {
+    line-height: 2rem;
+}
+
+.contact {
+    margin: 1rem 0;
+}
+
+.fab.fa-pinterest-p {
+    margin: 0 1rem;
+}
+
+.copyright {
+    border-top: 1px solid white;
+    margin-top: 2rem;
+    padding-top: 1rem;
+}
