@@ -150,6 +150,9 @@ cite{
 footer{
     font-family: 'Montserrat', sans-serif;
     background-image: url("../img/fondo-footer.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -20rem;
     padding: 5rem 0;
 }
 
